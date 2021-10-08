@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nauryz
 - 👀 I’m interested in you
 - 🌱 I’m currently learning go
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nauryz
 
 <!---
